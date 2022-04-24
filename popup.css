@@ -1,0 +1,10 @@
+button {
+  border-radius: 2px;
+  border: 1px solid black;
+  font-family: Calibri, sans-serif;
+  font-size: medium;
+}
+
+button:active {
+  transform: scale(0.98);
+}
